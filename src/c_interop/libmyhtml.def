@@ -1,0 +1,3 @@
+headers = myhtml/api.h
+linkerOpts.osx = -L/usr/local/lib -lmyhtml
+# linkerOpts.osx = -L/usr/local/lib -lmyhtml
